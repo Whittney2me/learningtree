@@ -76,7 +76,7 @@ nav ul {
   list-style: none;
   margin: 4em auto;
   text-align: center;
-  font-family: 'Ubuntu';
+  font-family: 'Josefin Sans';
 }
 nav ul.hidden {
   display: none;
@@ -92,7 +92,7 @@ nav ul a {
   width: 100%;
   font-size: 3em;
   line-height: 1.5;
-  font-family: 'Ubuntu';
+  font-family: 'Josefin Sans';
 }
 nav ul a:hover {
   background-color: #428BCA;
@@ -118,7 +118,7 @@ nav ul a:hover {
   vertical-align: middle;
 }
 .link-home {
-  font-family: 'Roboto Slab';
+  font-family: 'Amatic SC';
   font-size: 7rem;
   color: #10477E;
   text-decoration: none;
@@ -132,7 +132,7 @@ nav ul a:hover {
 }
 /*-- Welcome --*/
 .page-header {
-  font-family: 'Roboto Slab';
+  font-family: 'Amatic SC';
   margin: 50px;
 }
 /*-- Decorative Lines --*/
@@ -171,7 +171,7 @@ span {
   margin: 25px;
   font-size: 18px;
   color: #10467E;
-  font-family: 'Ubuntu';
+  font-family: 'Josefin Sans';
   font-weight: 300;
 }
 .row {
@@ -189,7 +189,7 @@ span {
 }
 /*-- Footer --*/
 footer {
-  font-family: 'Ubuntu';
+  font-family: 'Josefin Sans';
   font-weight: 300;
 }
 footer a {
