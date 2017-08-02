@@ -185,6 +185,45 @@ span {
   width: 95%;
   margin: auto;
 }
+/*-- Icon --*/
+.pull-left {
+  float: left !important;
+}
+.fa-stack {
+    position: relative;
+    display: inline-block;
+    width: 2em;
+    height: 2em;
+    line-height: 2em;
+    vertical-align: middle;
+}
+.fa-2x {
+    font-size: 2em;
+}
+.fa-stack-2x {
+    font-size: 2em;
+}
+.fa-stack-1x, .fa-stack-2x {
+    position: absolute;
+    left: 0;
+    width: 100%;
+    text-align: center;
+}
+.fa {
+    display: inline-block;
+    font-family: FontAwesome;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+.about-item .fa {
+    color: #555555;
+}
+.fa-stack-1x {
+    line-height: inherit;
+}
 /*-- Logo Thumbnail --*/
 .thumbnail {
     width: 90%;
