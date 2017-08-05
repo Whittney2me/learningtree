@@ -184,6 +184,7 @@ span {
 .row {
   width: 95%;
   margin: auto;
+  cursor: default;
 }
 /*-- Icon --*/
 .pull-left {
@@ -223,6 +224,23 @@ span {
 }
 .fa-stack-1x {
     line-height: inherit;
+}
+h2 {
+  width: 80%;
+  margin: auto;
+  color: #FF8275 !important;
+}
+h4 {
+  margin: auto;
+  width: 80%;
+}
+p {
+  margin: 20px auto 0;
+  width: 80%;
+}
+ul {
+  width: 80%;
+  margin: auto;
 }
 /*-- Logo Thumbnail --*/
 .thumbnail {
